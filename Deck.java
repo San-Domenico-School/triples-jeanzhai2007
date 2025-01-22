@@ -1,8 +1,8 @@
 /**
  * Write a description of class Deck here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @JeanZhai
+ * January 22, 2025
  */
 
 import greenfoot.*;
