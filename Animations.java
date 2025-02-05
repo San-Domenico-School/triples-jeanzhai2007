@@ -1,8 +1,9 @@
 import greenfoot.*;
- /* Animation for Tiples 
+/**
+ * Write a description of class Animations here.
  * 
- * @Jean Zhai
- * @January 13
+ * JeanZhai
+ * 1/22/2025
  */
 public class Animations  
 {
@@ -14,10 +15,5 @@ public class Animations
     public static void slideAndTurn(Card[] cards)
     {
         Greenfoot.playSound("swoosh.wav");
-        for(int i = 0; i < cards.length; i++)
-        {
-            cards[i].move(-500);
-        }
     }
-    
 }
